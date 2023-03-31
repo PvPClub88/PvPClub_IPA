@@ -23,7 +23,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>bundle-identifier</key>
-                <string>org.ml.pvpclub.com</string>
+                <string>org.pvpclub.com</string>
             </dict>
         </dict>
     </array>
